@@ -1,0 +1,12 @@
+Burger=100
+CheeseBurger=100
+BeefBurger=100
+DoublePatty=100
+HotCheese=100
+SpicyBurger=100
+Sisig=100
+PorkGravy=100
+SizzlingChix=100
+PorkSweats=100
+Beefsteak=100
+BeefTeppanyaki=100
